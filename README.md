@@ -46,6 +46,7 @@ This will create a `build` directory containing the compiled application files. 
 
 - [React](https://react.dev/) - A JavaScript library for building user interfaces
 - [Auth0](https://auth0.com/) - A service for adding authentication and authorization to applications
+- [Vite](https://vitejs.dev/guide/) - A build tool with many options to spin up a React project really quick
 
 ## Author
 
